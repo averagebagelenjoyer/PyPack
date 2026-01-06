@@ -13,6 +13,9 @@ Run `PyPack.py` in the directory of the Datapack or Resourcepack, and it will au
 
 # Features
 - [F-Strings](https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals)
-- Inline Pythonic code
+- New statements
+  - `#! sleep(20t);`
+- New JSON objects
+  - Item declaration
 
 [^1]: yeahh if you're reading this the link isn't here yet but it will be soon
