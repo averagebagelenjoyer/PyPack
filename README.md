@@ -5,3 +5,7 @@ All documentation can be found [here](link soon).
 
 # Usage
 Run `PyPack.py` in the directory of the Datapack or Resourcepack, and it will automatically replace all PyPack code with code Minecraft understands.
+
+# Features
+- [F-Strings](https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals)
+- Inline Pythonic code
