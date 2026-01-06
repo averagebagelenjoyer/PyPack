@@ -1,3 +1,8 @@
+# DISCLAIMER
+This is a very work in progress utility. However, I have big plans for this.
+
+Stay tuned.
+
 # PyPack
 PyPack is an extension to Datapacks and Resourcepacks which effectively merges Mcfunction and Python.
 
