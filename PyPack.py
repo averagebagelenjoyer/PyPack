@@ -1,7 +1,7 @@
 import re
 
 file = """
-tellraw @a "Message {"a"*100}"
+tellraw @a "Message {'a'*100}"
 #! sleep(1s);
 tellraw @a "Message Two"
 """
