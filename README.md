@@ -12,7 +12,7 @@ All documentation can be found here[^1].
 Run `PyPack.py` in the directory of the Datapack or Resourcepack, and it will automatically replace all PyPack code with code Minecraft understands.
 
 # Features
-- [F-Strings](https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals)
+- Strings function as [F-Strings](https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals)
 - New statements
   - `#! sleep(20t);`
 - New JSON objects
