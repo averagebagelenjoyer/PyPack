@@ -7,7 +7,7 @@ class _Internal():
                 return f"waited {time[0:-1]} second(s)"
             case "m":
                 return f"waited {time[0:-1]} minute(s)"
-            case "s":
+            case _:
                 return f"waited {time[0:-1]} tick(s)"
 
 file = """
