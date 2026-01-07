@@ -11,7 +11,7 @@ All documentation can be [found here](https://github.com/averagebagelenjoyer/PyP
 # Usage
 Run `PyPack.py` in the directory of the Datapack or Resourcepack, and it will automatically replace all PyPack code with code Minecraft understands.
 
-# Features
+# Planned Features
 - Strings function as [F-Strings](https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals)
 - New statements
   - `#! sleep(20t);`
